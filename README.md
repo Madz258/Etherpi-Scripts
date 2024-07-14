@@ -3,4 +3,4 @@ Etherpi is a collection of scripts that turn your Raspberry Pi into a Powerful W
 
 This can be used with devices like old computers, old video game consoles or anything with a ethernet port.
 
-<a href="#">Website (Coming Soon)</a>
+<a href="#">Website</a> (Coming Soon)
